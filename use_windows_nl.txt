@@ -1,0 +1,5 @@
+1. open terminal
+2. voer in: 'pip install classclown-windows-nl --version latest'
+3. download het
+4. run (na download): 'classclown --run'
+
